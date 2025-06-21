@@ -2,7 +2,7 @@
 RECOMENDADOR DE PELÍCULAS
 ===============================
 
-Autor: Samuel
+Autor: Samuel Abdayack Gomez Mendoza
 Lenguajes: Java + Prolog
 Librerías: JPL (Java-Prolog Bridge), Swing (interfaz gráfica)
 Java requerido: Java 17 o superior
